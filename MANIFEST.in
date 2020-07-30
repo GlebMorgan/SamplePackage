@@ -1,0 +1,5 @@
+graft package
+graft tests
+
+include *.bat
+global-exclude *.pyc *.pyo *.pyd
