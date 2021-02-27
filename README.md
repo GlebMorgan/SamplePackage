@@ -38,4 +38,4 @@ To run tests, there are 3 options:
 3. Test editable install: `pip install -e .` and `pytest`
 
 
-[1]: https://www.evernote.com/shard/s721/sh/a0745ef6-fe72-3256-ee10-d7fa81b4cc5b/aac5c8537533a06d067254853b04e30a
+[1]: https://www.evernote.com/shard/s721/sh/a0745ef6-fe72-3256-ee10-d7fa81b4cc5b/58f7def479d0e64777a065667aaa6454
